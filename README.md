@@ -95,14 +95,6 @@ SecurityEvent
 
 ---
 
-## 📸 Screenshots (Optional)
-You can upload screenshots later into a `/screenshots` folder:
-- attack-map.png  
-- failed-logins.png  
-- workbook-overview.png  
-
----
-
 ## 🎯 Skills Demonstrated
 - Azure Sentinel  
 - Log Analytics  
